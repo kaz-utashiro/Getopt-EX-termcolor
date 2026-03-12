@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/kaz-utashiro/Getopt-EX-termcolor/workflows/test/badge.svg)](https://github.com/kaz-utashiro/Getopt-EX-termcolor/actions) [![MetaCPAN Release](https://badge.fury.io/pl/Getopt-EX-termcolor.svg)](https://metacpan.org/release/Getopt-EX-termcolor)
+[![Actions Status](https://github.com/kaz-utashiro/Getopt-EX-termcolor/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/kaz-utashiro/Getopt-EX-termcolor/actions?workflow=test) [![MetaCPAN Release](https://badge.fury.io/pl/Getopt-EX-termcolor.svg)](https://metacpan.org/release/Getopt-EX-termcolor)
 # NAME
 
 Getopt::EX::termcolor - Getopt::EX termcolor module

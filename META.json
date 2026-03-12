@@ -4,7 +4,7 @@
       "Kazumasa Utashiro"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v3.1.12, CPAN::Meta::Converter version 2.150010",
+   "generated_by" : "Minilla/v3.1.29, CPAN::Meta::Converter version 2.150010",
    "license" : [
       "perl_5"
    ],
@@ -43,7 +43,6 @@
       "runtime" : {
          "requires" : {
             "Capture::Tiny" : "0",
-            "Getopt::EX" : "v1.18.0",
             "List::Util" : "1.45",
             "Term::ReadKey" : "0",
             "perl" : "v5.14.0"
@@ -63,7 +62,7 @@
       "homepage" : "https://github.com/kaz-utashiro/Getopt-EX-termcolor",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/kaz-utashiro/Getopt-EX-termcolor.git",
+         "url" : "https://github.com/kaz-utashiro/Getopt-EX-termcolor.git",
          "web" : "https://github.com/kaz-utashiro/Getopt-EX-termcolor"
       }
    },
@@ -72,6 +71,6 @@
    "x_contributors" : [
       "Kazumasa Utashiro <kaz@utashiro.com>"
    ],
-   "x_serialization_backend" : "JSON::PP version 4.07",
+   "x_serialization_backend" : "JSON::PP version 4.16",
    "x_static_install" : 1
 }
