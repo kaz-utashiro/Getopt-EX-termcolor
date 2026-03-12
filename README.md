@@ -21,7 +21,7 @@ Getopt::EX::termcolor - Getopt::EX termcolor module
 
 # VERSION
 
-Version 1.08
+Version 1.09
 
 # DESCRIPTION
 
@@ -100,7 +100,7 @@ Kazumasa Utashiro
 
 # LICENSE
 
-Copyright 2020-2021 Kazumasa Utashiro.
+Copyright 2020-2026 Kazumasa Utashiro.
 
 You can redistribute it and/or modify it under the same terms
 as Perl itself.
